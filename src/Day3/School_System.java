@@ -3,7 +3,7 @@ package Day3;
 
 public class School_System {
     public static void main(String[] args) {
-        TeacherInfo teacher1=new TeacherInfo("zaw", 20, "09-4788455");
+
         TeacherInfo teacher2=new TeacherInfo("Nyein Khin", 18, "09-4788455");
         TeacherInfo teacher3=new TeacherInfo("Nyein Khin", 18, "09-4788455");
 

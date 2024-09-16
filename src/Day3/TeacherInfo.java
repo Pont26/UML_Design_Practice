@@ -1,7 +1,7 @@
 package Day3;
 
 public class TeacherInfo {
-    private String name;
+
     private int age;
     private String address;
     private String ph;
