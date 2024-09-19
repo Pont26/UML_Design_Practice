@@ -13,4 +13,8 @@ public class Looping_1 {
     public void updateFruit(String name) {
         System.out.println(name +" = "+ (System.currentTimeMillis()));
     }
+    public static void deleteFruit(String[] fruits) {
+        fruits[0] = "Grape";
+        System.out.println(fruits[0]); // Output: Grape
+    }
 }
