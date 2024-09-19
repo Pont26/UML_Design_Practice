@@ -10,4 +10,8 @@ public class Looping_1 {
             System.out.println(i +" * 2= "+ (i*2));
         }
     }
+    public static void deleteFruit(String[] fruits) {
+        fruits[0] = "Grape";
+        System.out.println(fruits[0]); // Output: Grape
+    }
 }
