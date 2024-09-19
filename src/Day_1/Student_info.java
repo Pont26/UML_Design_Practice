@@ -1,6 +1,7 @@
 package Day_1;
 
 public class Student_info {
+    there are errors
     private String name;
     private int age;
     private String address;
