@@ -7,4 +7,7 @@ public class Looping_1 {
             System.out.println(i +" * 2= "+ (i*2));
         }
     }
+    public void addFruit(String name, String){
+        System.out.println("Adding "+ name + " to the fruit basket");
+    }
 }
