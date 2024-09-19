@@ -10,4 +10,7 @@ public class Looping_1 {
             System.out.println(i +" * 2= "+ (i*2));
         }
     }
+    public void updateFruit(String name) {
+        System.out.println(name +" = "+ (System.currentTimeMillis()));
+    }
 }
